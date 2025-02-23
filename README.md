@@ -60,7 +60,7 @@ pip install crawlbase beautifulsoup4 pandas
 
 ### 2. Run the Search Listings Scraper
 
-This scraper extracts product details from search listings and saves them in `zoro_search_data.json`:
+This scraper extracts product details from search listings and saves them in `zoro_listings.json`:
 
 ```bash
 # Use python3 if required (for Linux/macOS)
@@ -75,7 +75,7 @@ Once you have the search results, extract detailed product information using:
 python zoro_product_page_scraper.py
 ```
 
-This will fetch and save product details in `zoro_product_data.json`.
+This will fetch and save product details in `zoro_products.json`.
 
 ## To-Do List
 
