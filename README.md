@@ -47,9 +47,9 @@ Install the required dependencies:
 pip install crawlbase beautifulsoup4 pandas
 ```
 
-**Crawlbase** – Handles JavaScript rendering and bypasses bot protections.
-**BeautifulSoup** – Parses and extracts structured data from HTML.
-**Pandas** – Formats and stores extracted data for easy analysis.
+- **Crawlbase** – Handles JavaScript rendering and bypasses bot protections.
+- **BeautifulSoup** – Parses and extracts structured data from HTML.
+- **Pandas** – Formats and stores extracted data for easy analysis.
 
 ## Running the Scrapers
 
@@ -85,6 +85,6 @@ This will fetch and save product details in `zoro_product_data.json`.
 
 ## Why Use This Scraper?
 
-**Bypasses anti-bot protections** using Crawlbase.
-**Handles JavaScript-rendered content** efficiently.
-**Extracts structured product data** for e-commerce insights.
+- **Bypasses anti-bot protections** using Crawlbase.
+- **Handles JavaScript-rendered content** efficiently.
+- **Extracts structured product data** for e-commerce insights.
